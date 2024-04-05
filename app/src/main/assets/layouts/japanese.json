@@ -1,0 +1,202 @@
+[
+  [
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ヌ" },
+      "default": { "label": "ぬ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "フ" },
+      "default": { "label": "ふ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ア" },
+      "default": { "label": "あ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ウ" },
+      "default": { "label": "う" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "エ" },
+      "default": { "label": "え" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "オ" },
+      "default": { "label": "お" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ヤ" },
+      "default": { "label": "や" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ユ" },
+      "default": { "label": "ゆ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ヨ" },
+      "default": { "label": "よ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ワ" },
+      "default": { "label": "わ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ホ" },
+      "default": { "label": "ほ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ヘ" },
+      "default": { "label": "へ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ー" },
+      "default": { "label": "ー" }
+    }
+  ],
+  [
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "タ" },
+      "default": { "label": "た" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "テ" },
+      "default": { "label": "て" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "イ" },
+      "default": { "label": "い" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ス" },
+      "default": { "label": "す" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "カ" },
+      "default": { "label": "か" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ン" },
+      "default": { "label": "ん" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ナ" },
+      "default": { "label": "な" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ニ" },
+      "default": { "label": "に" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ラ" },
+      "default": { "label": "ら" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "セ" },
+      "default": { "label": "せ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "゛" },
+      "default": { "label": "゛" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "゜" },
+      "default": { "label": "゜" }
+    }
+  ],
+  [
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "チ" },
+      "default": { "label": "ち" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ト" },
+      "default": { "label": "と" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "シ" },
+      "default": { "label": "し" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ハ" },
+      "default": { "label": "は" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "キ" },
+      "default": { "label": "き" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ク" },
+      "default": { "label": "く" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "マ" },
+      "default": { "label": "ま" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ノ" },
+      "default": { "label": "の" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "リ" },
+      "default": { "label": "り" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "レ" },
+      "default": { "label": "れ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ケ" },
+      "default": { "label": "け" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ム" },
+      "default": { "label": "む" }
+    }
+  ],
+  [
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ツ" },
+      "default": { "label": "つ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "サ" },
+      "default": { "label": "さ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ソ" },
+      "default": { "label": "そ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ヒ" },
+      "default": { "label": "ひ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "コ" },
+      "default": { "label": "こ" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ミ" },
+      "default": { "label": "み" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "モ" },
+      "default": { "label": "も" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ネ" },
+      "default": { "label": "ね" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ル" },
+      "default": { "label": "る" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "メ" },
+      "default": { "label": "め" }
+    },
+    { "$": "shift_state_selector",
+      "manualOrLocked": { "label": "ロ" },
+      "default": { "label": "ろ" }
+    }
+  ]
+]
